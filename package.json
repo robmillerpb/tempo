@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "pb--tempo-v1",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Tempo the PB Design System",
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "bugs": {
